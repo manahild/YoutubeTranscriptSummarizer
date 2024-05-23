@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-api_key = "AIzaSyCPy9lOLK4accp0G0r9g_DoOiHU4L0FIgI"
+api_key = "your api key"
 genai.configure(api_key=api_key)
 
 # Now you can use the GenerativeAI functionality
