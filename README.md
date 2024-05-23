@@ -4,7 +4,9 @@ This project utilizes the Gemini API to extract and summarize transcripts from Y
 
 ## Technologies Used
 Python
+
 Gemini API
+
 YouTube API
 
 ## Interface ScreenShots
@@ -12,5 +14,7 @@ YouTube API
 
 ## Commands to run app on Streamlit
 ! pip install streamlit -q
+
 !wget -q -O - ipv4.icanhazip.com
+
 ! streamlit run app.py & npx localtunnel --port 8501
